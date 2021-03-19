@@ -59,14 +59,5 @@ object ClassDemo01 {
     } else {
       println("传入的不是狗类对象")
     }
-
-    //    val d = new Dog()
-    //    d.name = "dog"
-    //    d.age = 5
-    //    println(d.name, d.age)
-    //    d.eat()
-    //
-
-
   }
 }
